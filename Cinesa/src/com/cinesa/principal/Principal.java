@@ -11,7 +11,7 @@ import com.cinesa.vista.Splash;
 public class Principal {
 
 	public static void main(String[] args) {
-		//Conexión con la BD
+		//Conexión con la BD actual
 		BaseDeDatos bd=new BaseDeDatos();
 		bd.conectar();	
 		Splash sp = new Splash();

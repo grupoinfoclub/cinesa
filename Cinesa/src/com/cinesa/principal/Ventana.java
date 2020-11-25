@@ -40,6 +40,7 @@ public class Ventana extends JFrame{
 	 * @throws WriterException
 	 */
 	public Ventana() throws WriterException {
+		int x=0;
         BufferedImage imagen = crearQR("pruebecilla", 300, 300);
         ImageIcon icono = new ImageIcon(imagen);
         JLabel etiqueta = new JLabel("");
