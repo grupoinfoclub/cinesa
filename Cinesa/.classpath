@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib/core-3.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/fontbox-1.8.16.jar"/>
+	<classpathentry kind="lib" path="lib/jai-imageio-core-1.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/java-mail-1.4.4.jar"/>
+	<classpathentry kind="lib" path="lib/javacsv.jar"/>
+	<classpathentry kind="lib" path="lib/javase-3.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/jcommander-1.72.jar"/>
+	<classpathentry kind="lib" path="lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="lib/jdom-2.0.6-contrib.jar"/>
+	<classpathentry kind="lib" path="lib/jdom-2.0.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/jdom-2.0.6-junit.jar"/>
+	<classpathentry kind="lib" path="lib/jdom-2.0.6-sources.jar"/>
+	<classpathentry kind="lib" path="lib/jdom-2.0.6.jar"/>
+	<classpathentry kind="lib" path="lib/jempbox-1.8.16.jar"/>
+	<classpathentry kind="lib" path="lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.35.jar"/>
+	<classpathentry kind="lib" path="lib/pdfbox-1.8.16.jar"/>
+	<classpathentry kind="lib" path="lib/preflight-1.8.16.jar"/>
+	<classpathentry kind="lib" path="lib/xmpbox-1.8.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alfonso/Desktop/Cinesa-nereida/lib/commons-logging-1.1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

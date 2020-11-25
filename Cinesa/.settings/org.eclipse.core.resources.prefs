@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/com/cinesa/controlador/Centro_CRUD.java=UTF-8
+encoding//src/com/cinesa/controlador/Pelicula_CRUD.java=UTF-8
+encoding//src/com/cinesa/controlador/Reserva_CRUD.java=UTF-8
+encoding//src/com/cinesa/controlador/Sala_CRUD.java=UTF-8
+encoding//src/com/cinesa/controlador/Usuario_CRUD.java=UTF-8
+encoding//src/com/cinesa/principal/Principal.java=UTF-8
+encoding//src/com/cinesa/vista/MenuAdmin.java=UTF-8
+encoding//src/com/cinesa/vista/MenuLog.java=UTF-8
+encoding//src/com/cinesa/vista/MenuLogin.java=UTF-8
+encoding//src/com/cinesa/vista/MenuPpal.java=UTF-8
+encoding//src/com/cinesa/vista/MenuRegistro.java=UTF-8
+encoding//src/com/cinesa/vista/Splash.java=UTF-8
