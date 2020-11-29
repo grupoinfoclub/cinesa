@@ -270,6 +270,7 @@ public class MenuAdmin {
 			System.out.println("¡¡¡¡Hasta Pronto!!!!!");
 		}
 	}
+	
 	/**
 	 * función para retornar el número de días que tendrá el mes elegido
 	 * @param mes
@@ -294,6 +295,7 @@ public class MenuAdmin {
 		}
 		return dias;
 	}
+	
 	/**
 	 * procedimiento para poner en estado libre cada butaca de la sala
 	 * @param dias
